@@ -274,3 +274,5 @@
 |252|제주 제주갑|제주|제주갑|
 |253|제주 제주을|제주|제주을|
 |254|제주 서귀포|제주|서귀포|
+
+<img src="https://github.com/OhmyNews/2024_22_elec_map/blob/main/2024_22_Elec.png">
